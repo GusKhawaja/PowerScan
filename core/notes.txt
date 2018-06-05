@@ -1,0 +1,2 @@
+#pre-requisites:
+- Install Gobuster (apt-get install gobuster)
